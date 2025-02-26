@@ -1,4 +1,11 @@
-# Examples
+# New Example Rust File System 
+Basic filesystem example project
+This is a simple filesystem example project that can be compiled to the wasm32-wasip1 target and run in dfx.
+It demonstrates how to initialize the ic_wasi_polyfill and then use the standard std::fs module to read and write files and directories.
+
+**Author:** Kristofer Lund
+
+# Initial Examples from the WASM Repo
 
 This repository contains various examples of building wasi canisters for running on the Internet Computer.
 
